@@ -1,3 +1,3 @@
-# python
+# Python
 
-Este repositorio contiene los archivos de python
+Some Python scrips.
