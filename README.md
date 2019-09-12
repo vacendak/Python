@@ -1,3 +1,4 @@
-# python
+# Python
+## Original scripts by Sergio Sanz.
 
-Este repositorio contiene los archivos de python
+Some Python scrips.
