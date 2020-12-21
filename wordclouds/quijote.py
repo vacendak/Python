@@ -45,7 +45,6 @@ quijote_wc = WordCloud(
     background_color='#F3F1CE',
     max_words=20000,
     stopwords=stopwords,
-    min_word_length=6,
     width=400, height=300,
     min_font_size=6
 )
