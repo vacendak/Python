@@ -42,7 +42,7 @@ def calculate_pi_decimals(tot):
 
 if __name__ == "__main__":
     while True:
-        tot = int(input("\n\nEnteer the desired number of decimals:  "))
+        tot = int(input("\n\nEnter the desired number of decimals:  "))
         calculate_pi_decimals(tot)
 
         otro = input("\n\tTry again? (y/n): ")
